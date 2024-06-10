@@ -13,7 +13,7 @@ The purpose of the QuizMaster program is to provide an interactive quiz game for
 ### Running the Program
 
 1. **Clone or Download the Repository**
-   - Clone the repository using `git clone <https://github.com/jafarramadan/QuizMaster-Challenge.git>`, or download the ZIP file and extract it.
+   - Clone the repository using `git clone <https://github.com/jafarramadan/QuizMaster-Challenge.git>`, or download the ZIP file and extract it..
 
 2. **Navigate to the Project Directory**
    - Open a terminal or command prompt.
